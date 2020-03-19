@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'rubike'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ca673610503e4f5e90567e21a084d224 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_01f70a5751ec49dfb4c576bb22f35d11 }}
